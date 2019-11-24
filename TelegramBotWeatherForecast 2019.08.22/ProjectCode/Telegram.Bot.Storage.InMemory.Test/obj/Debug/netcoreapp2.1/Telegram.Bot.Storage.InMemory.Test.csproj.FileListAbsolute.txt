@@ -1,0 +1,14 @@
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.deps.json
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.runtimeconfig.json
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.runtimeconfig.dev.json
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.pdb
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.csprojAssemblyReference.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.AssemblyInfoInputs.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.AssemblyInfo.cs
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.InMemory.Test\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.InMemory.Test.pdb

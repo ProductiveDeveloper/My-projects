@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Telegram.Bot" Version="15.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Parse.WeatherForecast\Parse.WeatherForecast.csproj" />
+    <ProjectReference Include="..\Telegram.Reciver\Telegram.Receiver.csproj" />
+    <ProjectReference Include="..\Telegram.Storage.Core\Telegram.Storage.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Parse.WeatherForecast\Parse.WeatherForecast.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.File.Tests\Telegram.Bot.Storage.File.Tests.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.FileTxt\Telegram.Bot.Storage.File.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.InMemory.Test\Telegram.Bot.Storage.InMemory.Tests.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.InMemory\Telegram.Bot.Storage.InMemory.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.Sql.Tests\Telegram.Bot.Storage.Sql.Tests.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.Sql\Telegram.Bot.Storage.Sql.csproj" />
+    <ProjectReference Include="..\Telegram.Domain.UserItem.Core\Telegram.Domain.UserItem.Core.csproj" />
+    <ProjectReference Include="..\Telegram.Domain\Telegram.Domain.csproj" />
+    <ProjectReference Include="..\Telegram.Receiver.Core\Telegram.Receiver.Core.csproj" />
+    <ProjectReference Include="..\Telegram.Reciver\Telegram.Receiver.csproj" />
+    <ProjectReference Include="..\Telegram.Sender.Core\Telegram.Sender.Core.csproj" />
+    <ProjectReference Include="..\Telegram.Sender\Telegram.Sender.csproj" />
+    <ProjectReference Include="..\Telegram.Storage.Core\Telegram.Storage.Core.csproj" />
+    <ProjectReference Include="..\YandexTranslator\Translator.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\bin\Debug\netcoreapp2.1\Server.Domain.deps.json
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\bin\Debug\netcoreapp2.1\Server.Domain.dll
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\bin\Debug\netcoreapp2.1\Server.Domain.pdb
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\bin\Debug\netcoreapp2.1\Server.Receiver.TCP.dll
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\bin\Debug\netcoreapp2.1\Server.Receiver.TCP.pdb
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\obj\Debug\netcoreapp2.1\Server.Domain.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\obj\Debug\netcoreapp2.1\Server.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\obj\Debug\netcoreapp2.1\Server.Domain.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\obj\Debug\netcoreapp2.1\Server.Domain.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\obj\Debug\netcoreapp2.1\Server.Domain.csproj.CopyComplete
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\obj\Debug\netcoreapp2.1\Server.Domain.dll
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Domain\obj\Debug\netcoreapp2.1\Server.Domain.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\YandexTranslator.deps.json
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\YandexTranslator.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\YandexTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\YandexTranslator.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\YandexTranslator.AssemblyInfo.cs

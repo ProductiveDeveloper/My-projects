@@ -1,0 +1,45 @@
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.deps.json
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.deps.json
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\TelegramBot\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.deps.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\bin\Debug\netcoreapp2.1\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\YandexTranslator\obj\Debug\netcoreapp2.1\Translator.pdb

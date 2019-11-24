@@ -1,0 +1,6 @@
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Reciver\bin\Debug\netcoreapp2.1\Telegram.Reciver.deps.json
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Reciver\bin\Debug\netcoreapp2.1\Telegram.Reciver.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Reciver\obj\Debug\netcoreapp2.1\Telegram.Reciver.csprojAssemblyReference.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Reciver\obj\Debug\netcoreapp2.1\Telegram.Reciver.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Reciver\obj\Debug\netcoreapp2.1\Telegram.Reciver.AssemblyInfoInputs.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Reciver\obj\Debug\netcoreapp2.1\Telegram.Reciver.AssemblyInfo.cs

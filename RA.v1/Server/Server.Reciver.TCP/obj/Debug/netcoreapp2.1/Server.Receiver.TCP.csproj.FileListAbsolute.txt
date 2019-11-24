@@ -1,0 +1,9 @@
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\bin\Debug\netcoreapp2.1\Server.Receiver.TCP.deps.json
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\bin\Debug\netcoreapp2.1\Server.Receiver.TCP.dll
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\bin\Debug\netcoreapp2.1\Server.Receiver.TCP.pdb
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\obj\Debug\netcoreapp2.1\Server.Receiver.TCP.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\obj\Debug\netcoreapp2.1\Server.Receiver.TCP.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\obj\Debug\netcoreapp2.1\Server.Receiver.TCP.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\obj\Debug\netcoreapp2.1\Server.Receiver.TCP.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\obj\Debug\netcoreapp2.1\Server.Receiver.TCP.dll
+C:\Users\Ракета\Desktop\RA.v1\Server\Server.Reciver.TCP\obj\Debug\netcoreapp2.1\Server.Receiver.TCP.pdb

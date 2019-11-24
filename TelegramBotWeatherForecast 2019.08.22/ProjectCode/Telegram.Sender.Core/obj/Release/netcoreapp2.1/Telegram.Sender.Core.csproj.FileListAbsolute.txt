@@ -1,0 +1,54 @@
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\bin\Release\netcoreapp2.1\Telegram.Sender.Core.deps.json
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\bin\Release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\bin\Release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\Release\netcoreapp2.1\Telegram.Sender.Core.deps.json
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\Release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\Release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\Release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.deps.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.deps.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\bin\release\netcoreapp2.1\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Sender.Core\obj\release\netcoreapp2.1\Telegram.Sender.Core.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Telegram.Bot.Storage.File/1.0.0": {
+        "dependencies": {
+          "Telegram.Storage.Core": "1.0.0"
+        },
+        "runtime": {
+          "Telegram.Bot.Storage.File.dll": {}
+        }
+      },
+      "Telegram.Storage.Core/1.0.0": {
+        "runtime": {
+          "Telegram.Storage.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Telegram.Bot.Storage.File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telegram.Storage.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

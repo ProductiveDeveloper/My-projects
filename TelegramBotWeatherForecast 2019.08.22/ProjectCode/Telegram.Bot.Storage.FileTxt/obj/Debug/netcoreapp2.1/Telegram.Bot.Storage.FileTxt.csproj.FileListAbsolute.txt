@@ -1,0 +1,8 @@
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.deps.json
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\bin\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.pdb
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.AssemblyInfoInputs.cache
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.AssemblyInfo.cs
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.dll
+C:\Users\Ракета\source\repos\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.FileTxt\obj\Debug\netcoreapp2.1\Telegram.Bot.Storage.FileTxt.pdb

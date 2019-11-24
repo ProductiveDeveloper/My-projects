@@ -1,0 +1,114 @@
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.deps.json
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotLibiries\BuildingLibrariesForTelegrams\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.deps.json
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.json
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\Release\netcoreapp2.1\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CopyComplete
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\GitTelegramBot\TelegramBot\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\Release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.deps.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.deps.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\bin\release\netcoreapp2.1\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\Telegram.Bot.Storage.Sql.Tests\obj\release\netcoreapp2.1\Telegram.Bot.Storage.Sql.Tests.pdb

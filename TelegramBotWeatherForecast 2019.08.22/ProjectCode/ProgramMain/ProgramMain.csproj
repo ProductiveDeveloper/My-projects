@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>b85e783f-06ca-466b-b55c-45ba673ca031</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Parse.WeatherForecast\Parse.WeatherForecast.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.File.Tests\Telegram.Bot.Storage.File.Tests.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.FileTxt\Telegram.Bot.Storage.File.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.InMemory.Test\Telegram.Bot.Storage.InMemory.Tests.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.InMemory\Telegram.Bot.Storage.InMemory.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.Sql.Tests\Telegram.Bot.Storage.Sql.Tests.csproj" />
+    <ProjectReference Include="..\Telegram.Bot.Storage.Sql\Telegram.Bot.Storage.Sql.csproj" />
+    <ProjectReference Include="..\Telegram.Domain.UserItem.Core\Telegram.Domain.UserItem.Core.csproj" />
+    <ProjectReference Include="..\Telegram.Domain\Telegram.Domain.csproj" />
+    <ProjectReference Include="..\Telegram.Receiver.Core\Telegram.Receiver.Core.csproj" />
+    <ProjectReference Include="..\Telegram.Reciver\Telegram.Receiver.csproj" />
+    <ProjectReference Include="..\Telegram.Sender.Core\Telegram.Sender.Core.csproj" />
+    <ProjectReference Include="..\Telegram.Sender\Telegram.Sender.csproj" />
+    <ProjectReference Include="..\Telegram.Storage.Core\Telegram.Storage.Core.csproj" />
+  </ItemGroup>
+
+</Project>

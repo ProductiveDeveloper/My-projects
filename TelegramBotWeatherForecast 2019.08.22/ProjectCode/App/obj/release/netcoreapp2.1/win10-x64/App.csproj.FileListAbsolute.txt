@@ -1,0 +1,192 @@
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.exe
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecast\WeatherForecastTB\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.exe
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.deps.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBotWeatherForecastStorageFile\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.exe
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.deps.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\App.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\bin\release\netcoreapp2.1\win10-x64\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\WeatherForecastTelegramBot\App\obj\release\netcoreapp2.1\win10-x64\App.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\App.exe
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\App.deps.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\App.runtimeconfig.dev.json
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\App.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Translator.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Parse.WeatherForecast.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.File.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.InMemory.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.Tests.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Bot.Storage.Sql.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.UserItem.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Domain.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Receiver.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Sender.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Telegram.Storage.Core.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\bin\release\netcoreapp2.1\win10-x64\Translator.pdb
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\obj\release\netcoreapp2.1\win10-x64\App.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfoInputs.cache
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\obj\release\netcoreapp2.1\win10-x64\App.AssemblyInfo.cs
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\obj\release\netcoreapp2.1\win10-x64\App.csproj.CopyComplete
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\obj\release\netcoreapp2.1\win10-x64\App.dll
+C:\Users\Ракета\Desktop\TelegramBots\TelegramBotWeatherForecast 2019.08.22\ProjectCode\App\obj\release\netcoreapp2.1\win10-x64\App.pdb

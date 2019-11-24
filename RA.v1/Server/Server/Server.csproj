@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Server.Domain\Server.Domain.csproj" />
+    <ProjectReference Include="..\Server.Reciver.TCP\Server.Receiver.TCP.csproj" />
+  </ItemGroup>
+
+</Project>
