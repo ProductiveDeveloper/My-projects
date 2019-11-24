@@ -1,9 +1,0 @@
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\bin\Debug\netcoreapp2.1\Sender.TCP.deps.json
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\bin\Debug\netcoreapp2.1\Sender.TCP.dll
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\bin\Debug\netcoreapp2.1\Sender.TCP.pdb
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\obj\Debug\netcoreapp2.1\Sender.TCP.csprojAssemblyReference.cache
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\obj\Debug\netcoreapp2.1\Sender.TCP.csproj.CoreCompileInputs.cache
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\obj\Debug\netcoreapp2.1\Sender.TCP.AssemblyInfoInputs.cache
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\obj\Debug\netcoreapp2.1\Sender.TCP.AssemblyInfo.cs
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\obj\Debug\netcoreapp2.1\Sender.TCP.dll
-C:\Users\Ракета\Desktop\RA.v1\Sender\Sender.TCP\obj\Debug\netcoreapp2.1\Sender.TCP.pdb
