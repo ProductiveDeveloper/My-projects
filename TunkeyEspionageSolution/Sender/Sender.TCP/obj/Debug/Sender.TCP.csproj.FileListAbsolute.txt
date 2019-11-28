@@ -1,0 +1,14 @@
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\Sender.TCP\obj\Debug\Sender.TCP.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\Sender.TCP\obj\Debug\Sender.TCP.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\Sender.TCP\bin\Debug\Sender.TCP.dll.config
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\Sender.TCP\bin\Debug\Sender.TCP.dll
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\Sender.TCP\bin\Debug\Sender.TCP.pdb
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\Sender.TCP\obj\Debug\Sender.TCP.dll
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\Sender.TCP\obj\Debug\Sender.TCP.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Sender.TCP\bin\Debug\Sender.TCP.dll.config
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Sender.TCP\bin\Debug\Sender.TCP.dll
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Sender.TCP\bin\Debug\Sender.TCP.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Sender.TCP\obj\Debug\Sender.TCP.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Sender.TCP\obj\Debug\Sender.TCP.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Sender.TCP\obj\Debug\Sender.TCP.dll
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Sender.TCP\obj\Debug\Sender.TCP.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\AutoOpen.exe.config
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\AutoOpen.exe
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\AutoOpen.pdb
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\obj\Debug\AutoOpen.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\obj\Debug\AutoOpen.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\obj\Debug\AutoOpen.exe
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\obj\Debug\AutoOpen.pdb
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\AutoOpen.Domain.dll
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\Storage.InMemory.dll
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\AutoOpen.Domain.pdb
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\Storage.InMemory.pdb
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\bin\Debug\Storage.InMemory.dll.config
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen\obj\Debug\AutoOpen.csproj.CopyComplete

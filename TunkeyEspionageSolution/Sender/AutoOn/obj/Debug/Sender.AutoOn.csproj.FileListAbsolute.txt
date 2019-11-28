@@ -1,0 +1,16 @@
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\obj\Debug\Sender.AutoOn.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\obj\Debug\AutoOn.Properties.Resources.resources
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\obj\Debug\Sender.AutoOn.csproj.GenerateResource.cache
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\obj\Debug\Sender.AutoOn.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\bin\Debug\AutoOn.dll
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\bin\Debug\AutoOn.pdb
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\obj\Debug\AutoOn.dll
+C:\Users\Ракета\Desktop\RA.v1\Sender_2\AutoOn\obj\Debug\AutoOn.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\bin\Debug\AutoOn.dll
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\bin\Debug\AutoOn.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\obj\Debug\Sender.AutoOn.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\obj\Debug\AutoOn.Properties.Resources.resources
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\obj\Debug\Sender.AutoOn.csproj.GenerateResource.cache
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\obj\Debug\Sender.AutoOn.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\obj\Debug\AutoOn.dll
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\AutoOn\obj\Debug\AutoOn.pdb

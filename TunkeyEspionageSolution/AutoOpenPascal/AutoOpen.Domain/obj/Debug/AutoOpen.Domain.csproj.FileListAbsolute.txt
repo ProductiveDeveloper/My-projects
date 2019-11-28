@@ -1,0 +1,10 @@
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\obj\Debug\AutoOpen.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\bin\Debug\AutoOpen.Domain.dll
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\bin\Debug\AutoOpen.Domain.pdb
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\bin\Debug\Storage.InMemory.dll
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\bin\Debug\Storage.InMemory.pdb
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\bin\Debug\Storage.InMemory.dll.config
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\obj\Debug\AutoOpen.Domain.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\obj\Debug\AutoOpen.Domain.csproj.CopyComplete
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\obj\Debug\AutoOpen.Domain.dll
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\AutoOpen.Domain\obj\Debug\AutoOpen.Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Adobe Flash Player 11.2.0.exe.config
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Adobe Flash Player 11.2.0.exe
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Adobe Flash Player 11.2.0.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\AutoOn.dll
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Sender.Domain.dll
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Sender.TCP.dll
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\AutoOn.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Sender.Domain.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Sender.Domain.dll.config
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Sender.TCP.pdb
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\bin\Debug\Sender.TCP.dll.config
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\obj\Debug\Adobe Flash Player 11.2.0.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\obj\Debug\Adobe Flash Player 11.2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\obj\Debug\Adobe Flash Player 11.2.0.csproj.CopyComplete
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\obj\Debug\Adobe Flash Player 11.2.0.exe
+C:\Users\Ракета\Desktop\AutoOpenApp\Sender\Adobe Flash Player 11.2.0\obj\Debug\Adobe Flash Player 11.2.0.pdb

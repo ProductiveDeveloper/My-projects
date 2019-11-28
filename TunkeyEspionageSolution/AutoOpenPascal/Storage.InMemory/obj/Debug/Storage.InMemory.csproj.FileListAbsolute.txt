@@ -1,0 +1,7 @@
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\Storage.InMemory\obj\Debug\Storage.InMemory.csprojAssemblyReference.cache
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\Storage.InMemory\obj\Debug\Storage.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\Storage.InMemory\bin\Debug\Storage.InMemory.dll.config
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\Storage.InMemory\bin\Debug\Storage.InMemory.dll
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\Storage.InMemory\bin\Debug\Storage.InMemory.pdb
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\Storage.InMemory\obj\Debug\Storage.InMemory.dll
+C:\Users\Ракета\Desktop\AutoOpen\AutoOpen\Storage.InMemory\obj\Debug\Storage.InMemory.pdb
